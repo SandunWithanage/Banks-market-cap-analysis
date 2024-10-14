@@ -1,6 +1,6 @@
 # Banks-market-cap-analysis
 
-This project is about using Python to gather data from the web about the largest banks in the world by market capitalization. We get the data from a Wikipedia page and clean it up so it’s easy to understand. The project uses web scraping to automate collecting this data, and then we organize it into a table for further analysis.
+This project is about using Python to gather data from the web about the largest banks in the world by market capitalization. I get the data from a Wikipedia page and clean it up so it’s easy to understand. The project uses web scraping to automate collecting this data, and then I organize it into a table for further analysis.
 
 Steps in the Project,
 01.ibrary Installation:
